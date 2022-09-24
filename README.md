@@ -7,6 +7,8 @@
 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n2hRudAEi-ZnN5Jq1cq8uoHkhwdiZkbh/view?usp=sharing)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShadyHosam&label=Profile%20views&color=0e75b6&style=flat" alt="ShadyHosam" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShadyHosam&show_icons=true&locale=en&layout=compact" alt="ShadyHosam" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShadyHosam&label=Profile%20views&color=0e75b6&style=flat" alt="ShadyHosam" /> </p>
+
 
 <!--
 <p align="left"> <img src="username=ShadyHosam&label=Profile%20views&color=0e75b6&style=flat" alt="ShadyHosam" /> </p>
