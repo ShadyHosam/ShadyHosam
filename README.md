@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shady Hossam</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
-- 📫 How to reach me **shadyhosam200@gmail.com**
 
 
 
